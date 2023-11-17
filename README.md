@@ -59,3 +59,4 @@ python3 Dnscat_decoder.py -f ./suspicious_traffic.pcap -d microsofto365.com -s 1
 Once we have decoded the traffic we can do cat on the output file.
 ## Be Careful:
 If you are running this in linux you will need to cat the file in order to see the plain-text content and text editor would probably see just hex.
+In windows it should be just fine to open the created file.
