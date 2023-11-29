@@ -1,5 +1,5 @@
 # Dnscat-decoder
-This is a small [DnscAt](https://github.com/iagox86/dnscat2) decoder written in python:
+This is a small [Dnscat](https://github.com/iagox86/dnscat2) decoder written in python:
 ```python
 from scapy.all import *
 import argparse
